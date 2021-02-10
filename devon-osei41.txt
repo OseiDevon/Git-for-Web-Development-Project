@@ -67,10 +67,15 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     31. How do I find out what file I am in, when I am using the command line?
         pwd
     32. Using the command line - how do I see a list of files/folders in my current folder?
+        ls
     33. How do I remove a file via the command line? Why do I have to be careful with this?
+        rm.... Completely removes from the computer
     34. Why should I use version control?
+        to keep track of changes
     35. How often should I commit to github?
+        as often as possible
     36. What is the command we would use to push our repo up to github?
+        git push -u origin "filename"
     37. Walk me through Lambda's git flow.
       Find assignment.. fork it.. copy link.. Terminal time.. clone.. code.. add . .. commit.. push..
 
